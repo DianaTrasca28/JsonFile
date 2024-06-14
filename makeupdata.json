@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Name": "Estee Lauder Double Wear",
+    "Details": "Fondul de ten de lunga durata Estee Lauder Double Wear Stay-in-Place este disponibil într-o gama larga de nuante. Este incredibil de usor si placut pe fata si, totusi, persista 24 de ore.",
+    "Image": "C:\\Users\\offic\\Desktop\\Master\\Anul1\\Sem2\\Mobile\\ProiectMobile\\ProiectMobile\\Poze\\DoubleWear.jpg",
+    "Price": 285.00,
+    "Currency": "RON"
+  },
+  {
+    "Name": "Nars Radiant Foundation",
+    "Details": "Fondul de ten NARS Natural Radiant Longwear Foundation asigură un aspect natural, un finisaj radiant și o acoperire mare.",
+    "Image": "C:\\Users\\offic\\Desktop\\Master\\Anul1\\Sem2\\Mobile\\ProiectMobile\\ProiectMobile\\Poze\\Nars.jpg",
+    "Price": 194.00,
+    "Currency": "RON"
+  },
+  {
+    "Name": "Mac Studio Fix Foundation",
+    "Details": "Fondul de ten matifiant MAC Studio Fix Fluid, asigură un finisaj mat, natural, de lungă durată și protejează împotriva radiațiilor solare, SPF 15.",
+    "Image": "C:\\Users\\offic\\Desktop\\Master\\Anul1\\Sem2\\Mobile\\ProiectMobile\\ProiectMobile\\Poze\\Mac.png",
+    "Price": 100.00,
+    "Currency": "RON"
+  }
+]
